@@ -1,0 +1,4 @@
+adam
+eva
+aray
+array
